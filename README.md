@@ -74,4 +74,4 @@ The Game Design Document (GDD) is included in the repository.
 ---
 
 ## Author
-Your Name
+Tashmi
