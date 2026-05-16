@@ -30,13 +30,16 @@ The game focuses on atmospheric tension, resource management, and close-quarters
 
 ## Controls
 
- Move - W A S D 
- Jump - Space 
- Interact - E 
- Pickup Item - Q 
- Inventory - Tab 
- Flashlight - F 
+| Action | Key |
+|---|---|
+| Move | W A S D |
+| Jump | Space |
+| Interact | E |
+| Pickup Item | Q |
+| Inventory | Tab |
+| Flashlight | F |
 
+---
 
 ## Level Design
 
