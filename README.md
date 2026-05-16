@@ -16,7 +16,6 @@ The game focuses on atmospheric tension, resource management, and close-quarters
 
 ## Developed With
 - Unreal Engine 5
-- Blender
 
 ---
 
