@@ -6,6 +6,7 @@ Final Bell is a single-level survival horror game set inside a college dormitory
 
 The game focuses on atmospheric tension, resource management, and close-quarters combat, blending exploration with survival mechanics in a dark horror-themed environment.
 
+---
 
 ## Genre
 - Survival Horror
@@ -17,6 +18,7 @@ The game focuses on atmospheric tension, resource management, and close-quarters
 - Unreal Engine 5
 - Blender
 
+---
 
 ## Gameplay Features
 - Zombie combat system
@@ -27,6 +29,7 @@ The game focuses on atmospheric tension, resource management, and close-quarters
 - Atmospheric horror lighting
 - AI zombies using NavMesh
 
+---
 
 ## Controls
 
@@ -56,6 +59,7 @@ The game focuses on atmospheric tension, resource management, and close-quarters
 ### Floor 3
 - Additional exploration area
 
+---
 
 ## Assets & Resources
 - Unreal Engine Starter Content
@@ -63,10 +67,12 @@ The game focuses on atmospheric tension, resource management, and close-quarters
 - Sketchfab
 - Fab
 
+---
 
 ## Documentation
 The Game Design Document (GDD) is included in the repository.
 
+---
 
 ## Author
-Tashmi
+Your Name
