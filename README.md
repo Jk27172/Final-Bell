@@ -73,5 +73,24 @@ The Game Design Document (GDD) is included in the repository.
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main Menu](Screenshots/Main%20Manu%20Screen.png)
+
+### Gameplay
+![Gameplay](Screenshots/Game%20Play.png)
+
+### Gameplay 2
+![Gameplay 2](Screenshots/Game%20Play2.png)
+
+### Pause Menu
+![Pause Menu](Screenshots/Pause%20Manu%20Screen.png)
+
+### Win Screen
+![Win Screen](Screenshots/Game%20Win%20Screen.png)
+
+---
+
 ## Author
 Tashmi
