@@ -78,6 +78,7 @@ The Game Design Document (GDD) is included in the repository.
 ▶ Watch the gameplay showcase:
 https://youtu.be/zcGUaJnXC3k
 
+---
 
 ## Screenshots
 
