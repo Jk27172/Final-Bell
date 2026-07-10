@@ -99,5 +99,11 @@ https://youtu.be/zcGUaJnXC3k
 
 ---
 
+## Play the Game
+
+itch.io: https://jk27172.itch.io/final-bell
+
+---
+
 ## Author
 Tashmi
